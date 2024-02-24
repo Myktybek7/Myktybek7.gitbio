@@ -1,0 +1,41 @@
+
+a{
+    font-family: "Hina Mincho", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(145, 126, 255); 
+}
+p , h1, h4{
+    
+    font-family: "Hina Mincho", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(188, 217, 221)
+}
+html{
+    background-color: rgb(145, 126, 255);
+}
+
+body{
+    background-color: rgb(39, 21, 90);
+    margin: 0 auto;
+    padding: 20px;
+    width: 700;
+    height: 1000;
+    border: 5px solid black;
+}
+a:hover {
+    color: rgb(255, 196, 0);
+    
+}
+  
+img{
+    display: block;
+    
+    width: 240;
+    height: 320;
+    float: right;
+    padding: 0px 0px 0px 20px;
+    
+}
+  
